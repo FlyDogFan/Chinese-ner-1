@@ -82,6 +82,7 @@ def evaluate(iterable, options=None):
         if num_features is None:
             num_features = len(features)
         elif num_features != len(features) and len(features) != 0:
+            print(line)
             raise FormatError('unexpected number of features: %d (%d)' %
                               (len(features), num_features))
 
