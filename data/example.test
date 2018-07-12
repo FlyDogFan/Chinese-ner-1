@@ -852,10 +852,10 @@
 任 O
 公 O
 司 O
-董 B-JOB
-事 I-JOB
-会 I-JOB
-秘 I-JOB
+董 O
+事 O
+会 O
+秘 B-JOB
 书 I-JOB
 ， O
 协 O
@@ -6108,10 +6108,10 @@
 份 I-ORG
 公 I-ORG
 司 I-ORG
-董 B-JOB
-事 I-JOB
-会 I-JOB
-秘 I-JOB
+董 O
+事 O
+会 O
+秘 B-JOB
 书 I-JOB
 。 O
  
@@ -7744,10 +7744,10 @@ A I-JOB
 ， O
 兼 O
 任 O
-董 B-JOB
-事 I-JOB
-会 I-JOB
-秘 I-JOB
+董 O
+事 O
+会 O
+秘 B-JOB
 书 I-JOB
 、 O
 金 B-JOB
