@@ -2697,8 +2697,8 @@
 出 O
 生 O
 ， O
-大 B-ORG
-学 I-ORG
+大 O
+学 O
 本 B-JOB
 科 I-JOB
 。 O
@@ -6337,8 +6337,8 @@
 济 I-JOB
 师 I-JOB
 ， O
-大 B-ORG
-学 I-ORG
+大 O
+学 O
 本 B-JOB
 科 I-JOB
 学 O
@@ -6513,8 +6513,8 @@
 党 B-JOB
 员 I-JOB
 ， O
-大 B-ORG
-学 I-ORG
+大 O
+学 O
 本 B-JOB
 科 I-JOB
 学 O
