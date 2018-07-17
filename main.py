@@ -86,7 +86,6 @@ def evaluate(sess, model, name, data, id_to_tag, logger):
     for line in eval_lines:
         logger.info(line)
     f1 = float(eval_lines[1].strip().split()[-1])
-
     if name == "dev":
         best_test_f1 = model.best_dev_f1.eval()
         if f1 > best_test_f1:
@@ -171,7 +170,7 @@ def train():
         model = create_model(sess, Model, FLAGS.ckpt_path, load_word2vec, config, id_to_char, logger)
         logger.info("start training")
         loss = []
-        for i in range(100):
+        for i in range(180):
             for batch in train_manager.iter_batch(shuffle=True):
                 step, batch_loss = model.run_step(sess, True, batch)
                 loss.append(batch_loss)
