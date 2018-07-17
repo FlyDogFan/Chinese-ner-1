@@ -1348,8 +1348,8 @@
 专 O
 业 O
 ， O
-大 B-ORG
-学 I-ORG
+大 O
+学 O
 本 B-JOB
 科 I-JOB
 学 O
@@ -36404,8 +36404,8 @@ d I-ORG
 胡 B-PER
 剑 I-PER
 豪 I-PER
-大 B-ORG
-学 I-ORG
+大 O
+学 O
 本 B-JOB
 科 I-JOB
 学 O
@@ -53189,8 +53189,8 @@ d I-ORG
 黄 B-PER
 明 I-PER
 金 I-PER
-大 B-ORG
-学 I-ORG
+大 O
+学 O
 本 B-JOB
 科 I-JOB
 学 O
